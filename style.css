@@ -1,3 +1,19 @@
 body {
+  background-color: #abdbe3 
+  
+}
 
+h2 {
+  color:blue;
+  text-align: center; 
+}
+
+img {
+  width: 50vh;
+  border: dotted pink 5px;
+}
+
+img:hover {
+  width: 250px;
+  border: solid gold 6px;
 }
