@@ -3,6 +3,28 @@ body {
   
 }
 
+nav {
+  list-style-type: none;
+  background-color: lavender;
+  width: 100%;
+  position: fixed; 
+  top: 0;
+  right: 0;
+}
+li {
+  display: inline;
+  padding: 13px;
+  float: right;
+}
+
+li: hover {
+  background-color: gold;
+}
+a {
+  text-decoration: none;
+  color: brown;
+}
+
 h2 {
   color:blue;
   text-align: center; 
