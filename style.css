@@ -1,8 +1,8 @@
 body {
-  background-color: #abdbe3 
+  background-color: #abdbe3;
+  font-family: "Lucida Console", "Courier New", serif;
   
 }
-
 nav {
   list-style-type: none;
   background-color: lavender;
@@ -17,16 +17,16 @@ li {
   float: right;
 }
 
-li: hover {
-  background-color: gold;
+li:hover {
+  background-color: yellow;
 }
 a {
   text-decoration: none;
   color: brown;
 }
 
-h2 {
-  color:blue;
+h1 {
+  color:#2425FF;
   text-align: center; 
 }
 
@@ -38,4 +38,9 @@ img {
 img:hover {
   width: 250px;
   border: solid gold 6px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
