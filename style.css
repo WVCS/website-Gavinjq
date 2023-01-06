@@ -1,4 +1,4 @@
-index.html{
+
 body {
   background-color: #abdbe3;
   font-family: "Lucida Console", "Courier New", serif;
@@ -44,9 +44,9 @@ img:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  }}
+  }
 
-apps.html {body {
+body {
   background-color: #abdbe3;
   font-family: "Lucida Console", "Courier New", serif;
   
