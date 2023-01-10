@@ -1,7 +1,7 @@
 
 body {
   background-color: #abdbe3;
-  font-family: "Lucida Console", "Courier New", serif;
+  font-family: "papyrus", "papyrus", serif;
   
 }
 nav {
@@ -27,6 +27,7 @@ a {
 }
 
 h1 {
+  background color:white; 
   color:#2425FF;
   text-align: center; 
 }
