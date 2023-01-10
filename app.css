@@ -26,8 +26,10 @@ a {
 }
 
 h1 {
+  background-color: pink;
   color:#2425FF;
   text-align: center; 
+  text-shadow: 2px 2px yellow;
 }
 h3 {
   color: white;
