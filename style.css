@@ -40,13 +40,13 @@ h3 {
 }
 
 h2 {
-  background-color: pink;
   color: yellow;
   text-align: center;
+  text-shadow: 3px 3px white;
 }
 
 h4{
-  color: pink;
+  color: white;
   text-align: right;
   text-shadow: 3px 3px lavender;
 }
